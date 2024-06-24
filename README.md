@@ -10,8 +10,9 @@ It is provided here as a convenience to the writers, reviewers and editors of Ma
 {% endhint %}
 
 {% hint style="danger" %}
-This is not the latest version of the documentation. Mayastor documentation up to version 2.5 is available on this website.
-Mayastor is now referred to as OpenEBS Replicated Storage. The latest Mayastor documentation (v2.6 and above) is published as part of [OpenEBS Documentation](https://openebs.io/docs).
+This website/page will be End-of-life (EOL) after 31 August 2024. We recommend you to visit [OpenEBS Documentation](https://openebs.io/docs/user-guides/replicated-storage-user-guide/replicated-pv-mayastor/rs-installation) for the latest Mayastor documentation (v2.6 and above).
+ 
+Mayastor is now also referred to as OpenEBS Replicated PV Mayastor.
 {% endhint %}
 
 ## What is Mayastor?
