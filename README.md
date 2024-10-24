@@ -3,6 +3,8 @@ description: 'The native NVMe-oF CAS engine of OpenEBS'
 ---
 
 # Welcome to Mayastor!
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fmayastor-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fmayastor-docs?ref=badge_shield)
+
 
 {% hint style="danger" %}
 ### This documentation is staged on an unstable branch  
@@ -45,3 +47,7 @@ Mayastor's source code and documentation are distributed amongst a number of Git
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopenebs%2Fmayastor-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopenebs%2Fmayastor-docs?ref=badge_large)
